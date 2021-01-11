@@ -5,6 +5,5 @@ public class Aula04 {
         c1.status();
         Caneta c2 = new Caneta("HOST", 1.5f, "VERDE");
         c2.status();
-    }
-    
+    }    
 } 
