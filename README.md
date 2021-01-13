@@ -32,3 +32,4 @@ mas na maior parte, é classificado esse pilar junto com encapsulamento.
 nenhuma interface possui atributos, apenas metodos.
 
 @Override = sobrescrever
+
